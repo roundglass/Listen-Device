@@ -1,6 +1,6 @@
 # Roundglass Sustain Listen : Realtime Acoustic
 
-# Monitoring
+## Monitoring
 
 - **_Listen_** ​ is a modular acoustic station (device) and software / program to analyze sounds
 - **_Listen_** ​is an end-end solution to collect sounds on the ground to infer intelligence
@@ -18,7 +18,7 @@
 
 ## How does ​ Listen ​ work?
 
-## Roundglass Sustain - Listen: working illustration
+### Listen: working illustration
 
 Listen isolates ‘sounds-of-interest’ from the surrounding or ambient sound. Sounds-of-interest
 can be defined according to our needs - gunshots, dynamite blasts, motor vehicles, timber
@@ -38,9 +38,9 @@ We foresee a need for these devices in the coming years owing to increased aware
 regarding conservation issues and also due to severe shortage of enforcement and patrol
 personnel guarding our protected areas.
 
-## Hardware Features
+## Hardware 
 
-## Roundglass Sustain Listen: hardware components
+### Roundglass Sustain Listen: components
 
 
 **Microphones** ​: A high sensitivity microphone is used that will work for far field listening and has
